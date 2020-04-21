@@ -1,0 +1,33 @@
+https://github.com/anujdevopslearn/InterviewQuestions
+wget -q -O - https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo apt-key add -
+echo "deb https://pkg.jenkins.io/debian-stable binary/" > /etc/apt/sources.d/jenkins.list
+apt update
+apt -y install openjdk-8-jdk
+apt -y install jenkins
+
+service jenkins restart
+service jenkins status
+
+
+testopc1gmailco.centralus.cloudapp.azure.com:8080
+
+anujsharma401ya.centralus.cloudapp.azure.com:8080
+
+cat /var/lib/jenkins/secrets/initialAdminPassword
+
+An error occurred
+Unable to connect to Jenkins
+
+mvn clean        TO Clean build directory
+mvn clean install    To Run compilation and build process
+mvn test        To run Test cases in git repo
+
+45fdd19e692143d59a8a8fb211a7d39a
+
+cat /var/lib/jenkins/secrets/initialAdminPassword
+45fdd19e692143d59a8a8fb211a7d39a
+
+
+https://github.com/web3j/sample-project-maven
+https://github.com/jitpack/maven-simple.git
+https://github.com/anujdevopslearn/InterviewQuestions
